@@ -12,7 +12,7 @@ body {
 }
 
 header {
-  background-color: #f5ba13;
+  background-color: #6867AC;
   margin: auto -16px;
   padding: 16px 32px;
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
@@ -45,21 +45,23 @@ footer p {
   float: left;
 }
 .note h1 {
-  font-size: 1.1em;
+  font-size: 1.2em;
   margin-bottom: 6px;
+  color:#2C394B;
 }
 .note p {
   font-size: 1.1em;
   margin-bottom: 10px;
   white-space: pre-wrap;
   word-wrap: break-word;
+  color: #334756;
 }
 
 .note button {
   position: relative;
   float: right;
   margin-right: 10px;
-  color: #f5ba13;
+  color: #6867AC;
   border: none;
   width: 72px;
   height: 36px;
@@ -90,7 +92,7 @@ form button {
   position: absolute;
   right: 18px;
   bottom: -18px;
-  background: #f5ba13;
+  background: #A267AC;
   color: #fff;
   border: none;
   border-radius: 50%;
